@@ -19,9 +19,9 @@
 	* `require` express and create your server app.
 	* Tell your app to listen to port `5000` and then start your server with `node server.js`. (Install `nodemon` globally if you would like. `npm install -g nodemon`)
 	* Add a route called `/name` that returns your name.
-  * Add a route called `/friends` that returns an array of some of your friends' names.
-  * Add a route called `/favorite-film` that returns an object that has details about one of your favorite movies.
-  * All of these routes are just handling `GET` requests.
+  	* Add a route called `/friends` that returns an array of some of your friends' names.
+  	* Add a route called `/favorite-film` that returns an object that has details about one of your favorite movies.
+  	* All of these routes are just handling `GET` requests.
 
 
 
