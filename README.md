@@ -4,11 +4,11 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Node
-	* Chrome's V8 Engine
-	* GET request
-	* Server
-	* express
+	* Node: allows you to use modules for web development (NPM lets you manage your node modules)
+	* Chrome's V8 Engine: a JS engine for the web browser; it compiles and executes JS and can maniuplate the browser DOM
+	* GET request: any time a web users wants something from your website by accessing a URL
+	* Server: used to run web applications, otherwise a web app wouldn't be able to be dynamic and get/put data
+	* express: used to organize your web app using a MVC framework (though not part of the MVC)
 
 
 2. Fork and clone this repo.
